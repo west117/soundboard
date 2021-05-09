@@ -1,0 +1,10 @@
+:root {
+  --theme__background: #282c34;
+  --theme__primary: #61afef;
+}
+
+button {
+  border: none;
+  outline: none;
+  background: none;
+}
