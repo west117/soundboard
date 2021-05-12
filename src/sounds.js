@@ -8,6 +8,7 @@ import KillingSpree from "./samples/UT/killingspree.wav";
 import MegaKill from "./samples/UT/megakill.wav";
 import MonsterKill from "./samples/UT/monsterkill.wav";
 import LudicrousKill from "./samples/UT/ludicrouskill.wav";
+import MegaAirHorn from "./samples/UT/mega-air-horn.wav";
 
 export const Sounds = [
   { name: "Ultra kill", src: Ultra },
@@ -20,4 +21,5 @@ export const Sounds = [
   { name: "Mega kill", src: MegaKill },
   { name: "Monster kill", src: MonsterKill },
   { name: "Ludicrous kill", src: LudicrousKill },
+  {name: "Mega air horn", src: MegaAirHorn},
 ];
