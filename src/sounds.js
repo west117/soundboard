@@ -9,6 +9,7 @@ import MegaKill from "./samples/UT/megakill.wav";
 import MonsterKill from "./samples/UT/monsterkill.wav";
 import LudicrousKill from "./samples/UT/ludicrouskill.wav";
 import MegaAirHorn from "./samples/UT/mega-air-horn.wav";
+import BackOfTheNet from "./samples/UT/back-of-the-net.mp3";
 
 export const Sounds = [
   { name: "Ultra kill", src: Ultra },
@@ -22,4 +23,5 @@ export const Sounds = [
   { name: "Monster kill", src: MonsterKill },
   { name: "Ludicrous kill", src: LudicrousKill },
   {name: "Mega air horn", src: MegaAirHorn},
+  {name: "Back of the net", src: BackOfTheNet},
 ];
